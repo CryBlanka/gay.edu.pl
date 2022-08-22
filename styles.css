@@ -78,6 +78,10 @@ top: 95%;
 transform: translate(-50%, -50%);
 }
 
+.img {
+  width: auto,
+}
+
 .trap{
   z-index:1;
   position:absolute;

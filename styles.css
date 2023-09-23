@@ -1,5 +1,6 @@
 body {
   background-color: black;
+	display: flex;
 }
 .black {
 	z-index:4;
@@ -8,6 +9,7 @@ body {
 	position:fixed;
 	width:100%;
 	height:100%;
+	display: flex;
 }
 
 .backg {
@@ -19,6 +21,7 @@ body {
 	size:50%;
 	width:100%;
 	height:100%;
+	display: flex;
 }
 
 .center{
